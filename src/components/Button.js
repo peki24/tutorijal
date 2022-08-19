@@ -8,9 +8,9 @@ const Button = ({color, text, onClick}) => {
   )
 }
 
-Button.defaultProps = {
-    color: 'steelblue',
-    text: 'Add'
-}
+// Button.defaultProps = {
+//     color: 'steelblue',
+//     text: 'Add'
+// }
 
 export default Button
